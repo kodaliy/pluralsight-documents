@@ -1,0 +1,143 @@
+{ 
+    "_id" : ObjectId("5b99d45041fb05641c997e00"), 
+    "_teamMemberId" : ObjectId("5b9ecf9a64f634289ca895bb"), 
+    "teamMember" : "Mark", 
+    "project" : "Trinity", 
+    "workYesterday" : "workYesterday goes here", 
+    "workToday" : "workToday goes here too", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-12T00:00:00.000+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ec8ac89bbd233f0b680c6"), 
+    "_teamMemberId" : ObjectId("5b9eddc764f634289ca895ea"), 
+    "teamMember" : "Mary", 
+    "project" : "Matrix", 
+    "workYesterday" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est lectus, feugiat nec nulla et, auctor dignissim dolor. Nullam eget ex lectus. Nam in ipsum accumsan, pellentesque justo sed, placerat ante.", 
+    "workToday" : "Nulla nec dignissim mauris, sed dapibus dolor. Duis porttitor ullamcorper metus in vestibulum. ", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-16T21:18:36.756+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ec8d189bbd233f0b680c7"), 
+    "_teamMemberId" : ObjectId("5b9eddbb64f634289ca895e9"), 
+    "teamMember" : "Summer", 
+    "project" : "Morpheus", 
+    "workYesterday" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est lectus, feugiat nec nulla et, auctor dignissim dolor. Nullam eget ex lectus. Nam in ipsum accumsan, pellentesque justo sed, placerat ante.", 
+    "workToday" : "Nulla nec dignissim mauris, sed dapibus dolor. Duis porttitor ullamcorper metus in vestibulum. ", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-16T21:19:13.751+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ec8d789bbd233f0b680c8"), 
+    "_teamMemberId" : ObjectId("5b9edda464f634289ca895e8"), 
+    "teamMember" : "John", 
+    "project" : "Morpheus", 
+    "workYesterday" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est lectus, feugiat nec nulla et, auctor dignissim dolor. Nullam eget ex lectus. Nam in ipsum accumsan, pellentesque justo sed, placerat ante.", 
+    "workToday" : "Nulla nec dignissim mauris, sed dapibus dolor. Duis porttitor ullamcorper metus in vestibulum. ", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-16T21:19:19.866+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ec8e789bbd233f0b680c9"), 
+    "_teamMemberId" : ObjectId("5b9edd9064f634289ca895e4"), 
+    "teamMember" : "David", 
+    "project" : "Trinity", 
+    "workYesterday" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est lectus, feugiat nec nulla et, auctor dignissim dolor. Nullam eget ex lectus. Nam in ipsum accumsan, pellentesque justo sed, placerat ante.", 
+    "workToday" : "Nulla nec dignissim mauris, sed dapibus dolor. Duis porttitor ullamcorper metus in vestibulum. ", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-16T21:19:35.534+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecb1d64f634289ca895a4"), 
+    "_teamMemberId" : ObjectId("5b9edda464f634289ca895e8"), 
+    "teamMember" : "John", 
+    "project" : "Morpheus", 
+    "workYesterday" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est lectus, feugiat nec nulla et, auctor dignissim dolor. Nullam eget ex lectus. Nam in ipsum accumsan, pellentesque justo sed, placerat ante.", 
+    "workToday" : "Nulla nec dignissim mauris, sed dapibus dolor. Duis porttitor ullamcorper metus in vestibulum. ", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-15T21:19:19.866+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecbd489bbd233f0b680ca"), 
+    "_teamMemberId" : ObjectId("5b9edd9064f634289ca895e4"), 
+    "teamMember" : "David", 
+    "project" : "Trinity", 
+    "workYesterday" : "Sed mollis varius mauris id sodales. Proin lacinia porta malesuada. Aenean non diam quis nulla commodo viverra nec ut lorem.", 
+    "workToday" : "Fusce tincidunt lacus at purus fermentum, sed suscipit arcu convallis. Donec eu cursus nunc. Cras turpis orci, porttitor vel luctus non, aliquam at magna. Donec tincidunt mattis viverra.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-14T21:19:35.534+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecc0389bbd233f0b680cb"), 
+    "_teamMemberId" : ObjectId("5b9edda464f634289ca895e8"), 
+    "teamMember" : "John", 
+    "project" : "Morpheus", 
+    "workYesterday" : "Sed mollis varius mauris id sodales. Proin lacinia porta malesuada. Aenean non diam quis nulla commodo viverra nec ut lorem.", 
+    "workToday" : "Fusce tincidunt lacus at purus fermentum, sed suscipit arcu convallis. Donec eu cursus nunc. Cras turpis orci, porttitor vel luctus non, aliquam at magna. Donec tincidunt mattis viverra.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-14T21:19:35.000+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecc1689bbd233f0b680cc"), 
+    "_teamMemberId" : ObjectId("5b9eddbb64f634289ca895e9"), 
+    "teamMember" : "Summer", 
+    "project" : "Morpheus", 
+    "workYesterday" : "Sed mollis varius mauris id sodales. Proin lacinia porta malesuada. Aenean non diam quis nulla commodo viverra nec ut lorem.", 
+    "workToday" : "Fusce tincidunt lacus at purus fermentum, sed suscipit arcu convallis. Donec eu cursus nunc. Cras turpis orci, porttitor vel luctus non, aliquam at magna. Donec tincidunt mattis viverra.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-14T21:19:35.111+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecc4c89bbd233f0b680cd"), 
+    "_teamMemberId" : ObjectId("5b9eddc764f634289ca895ea"), 
+    "teamMember" : "Mary", 
+    "project" : "Matrix", 
+    "workYesterday" : "Sed mollis varius mauris id sodales. Proin lacinia porta malesuada. Aenean non diam quis nulla commodo viverra nec ut lorem.", 
+    "workToday" : "Fusce tincidunt lacus at purus fermentum, sed suscipit arcu convallis. Donec eu cursus nunc. Cras turpis orci, porttitor vel luctus non, aliquam at magna. Donec tincidunt mattis viverra.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-14T21:19:35.333+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecd5689bbd233f0b680ce"), 
+    "_teamMemberId" : ObjectId("5b9eddd764f634289ca895eb"), 
+    "teamMember" : "Gayatri", 
+    "project" : "Nebuchadnezzar", 
+    "workYesterday" : "Quisque varius diam eu purus congue, ac lobortis erat lobortis. Nulla facilisi. Sed porta, erat a rutrum condimentum, lorem est dignissim quam, nec sollicitudin lorem risus sed leo.", 
+    "workToday" : "Donec viverra, nisi at aliquet sagittis, dui arcu efficitur nibh, eu posuere massa lectus eu diam.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-13T23:01:03.111+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecdaf89bbd233f0b680cf"), 
+    "_teamMemberId" : ObjectId("5b9eddd764f634289ca895eb"), 
+    "teamMember" : "Gayatri", 
+    "project" : "Nebuchadnezzar", 
+    "workYesterday" : "Donec viverra, nisi at aliquet sagittis, dui arcu efficitur nibh, eu posuere massa lectus eu diam.", 
+    "workToday" : " Vestibulum vel felis mauris. Maecenas erat nibh, mattis a tempus eu, tincidunt eleifend metus. Morbi cursus mauris in augue efficitur, sed venenatis nisi luctus.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-15T23:01:03.111+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9ecdd3eb94542760bc0abb"), 
+    "_teamMemberId" : ObjectId("5b9eddd764f634289ca895eb"), 
+    "teamMember" : "Gayatri", 
+    "project" : "Nebuchadnezzar", 
+    "workYesterday" : "Donec viverra, nisi at aliquet sagittis, dui arcu efficitur nibh, eu posuere massa lectus eu diam.", 
+    "workToday" : " Vestibulum vel felis mauris. Maecenas erat nibh, mattis a tempus eu, tincidunt eleifend metus. Morbi cursus mauris in augue efficitur, sed venenatis nisi luctus.", 
+    "impediment" : "none", 
+    "createdOn" : ISODate("2018-09-15T23:01:03.111+0000"), 
+    "__v" : NumberInt(0)
+}
